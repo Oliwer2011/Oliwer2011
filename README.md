@@ -83,7 +83,7 @@ Accessair
 Accessorize
 Accor
 ACDelco
-ACE Hadware
+ACE Hardware
 Acer
 Acer Predator
 Aces Columbia
@@ -3029,7 +3029,7 @@ Interflora
 International Airlines Group
 International Boxing Federation
 International Hockey League
-International Ppaer
+International Paper
 International Trucks
 Internet Explorer
 InterSky
