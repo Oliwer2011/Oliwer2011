@@ -327,6 +327,7 @@ Alien
 Alienware
 Aliexpress
 Alight Motion
+Align
 Alion
 Alisa
 Alitalia
@@ -999,6 +1000,7 @@ Boston University
 Boston University Terriers
 BosttiCelli
 Bottega Veneta
+Bounce
 Bounty
 Bounty (Toilet Paper)
 Bouraq Indonesia Airlines
