@@ -3365,7 +3365,7 @@ KPN
 KPU
 Kraft
 Kraft Heinz
-Kraft Macaroni & Cheese
+Kraft Mac & Cheese
 Kraken
 Krispy Kreme
 Krka
