@@ -4856,6 +4856,7 @@ Purdue Boilermakers
 Purdue University
 Purdy's
 Pure
+Pure Leaf
 Pure Life
 Pure Romace
 Purina
