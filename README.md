@@ -3415,6 +3415,7 @@ Labcorp
 Lacalut
 Laced
 Lacoste
+Lactaid
 Lada
 Ladbrokes
 Lady Gaga
@@ -4255,6 +4256,7 @@ NeXT
 Next (Fashion)
 NextJet
 Nexus
+Nexxus
 NFL
 Nginx
 NGK
@@ -5759,6 +5761,7 @@ Taurus
 Tayor Swift
 Tayor-Dunn
 TaylorMade
+Tazo
 Taç
 Tchibo
 TCL
