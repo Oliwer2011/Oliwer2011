@@ -1,4 +1,4 @@
-1000 Logos
+100 Grand
 10x10 An Italian Theory
 123Sport
 1st Choice
@@ -22,6 +22,7 @@
 4chan
 4H
 4Tube
+5 Gum
 5KFunds
 5sos
 6streams
@@ -816,6 +817,7 @@ Belvedere
 Ben & Jerry's
 Ben 10
 Ben Sherman
+Benadryl
 Benelli
 Benevento
 BenQ
@@ -889,6 +891,7 @@ Bitdefender
 Bite Back
 Bitter
 Bizzarrini
+BJ's
 BJP
 Bkash
 BlaBlaCar
@@ -1361,6 +1364,7 @@ Cheap Monday
 Checker Motors Corporation
 Cheerios
 Cheetos
+Cheez-It
 Chef Boyardee
 Chegg
 Chelsea
@@ -1482,6 +1486,7 @@ Cloud 9
 Cloudflare
 Clovia
 Club America
+Club Crackers
 Club Penguin
 CMovies
 CNBC
@@ -1831,6 +1836,7 @@ Diet Coke
 Digg
 Digicel
 Digimon
+DiGiorno
 Digital Playground
 Digital Spy
 Digital Storm
@@ -2008,10 +2014,12 @@ Edmonton Oilers
 eDreams
 Edsel
 Edward Jones
+EdX
 Edy's
 EE
 Efes
 Egger
+Eggo
 EgyptAir
 Egyptian Air Force
 Eibach
@@ -2174,6 +2182,7 @@ Experian
 Expert
 Explay
 Extended Stay America
+Extra Gum
 ExtremeChat
 Exxon
 ExxonMobil
@@ -2209,8 +2218,10 @@ Family Dollar
 Family Feud
 Family Guy
 Family Home Entertainment
+Famous Amos
 Famous Grouse
 Fanatical
+Fancy Feast
 Fandango
 Fannie Mae
 Fansly
@@ -2435,6 +2446,7 @@ Fyfess
 G.L. Joe
 G2A.com
 G4S
+Gab
 Gabon Airlines
 Gabor
 GAC Group
@@ -2458,6 +2470,7 @@ Gant
 Gap
 Garanti
 GardaWorld
+Garden Of Life
 Gardner Douglas
 Gardner-Webb Runnin' Bulldogs
 Garmin
@@ -2631,6 +2644,7 @@ Gorenje
 Gorillaz
 GOT7
 GotPorn
+Govee
 Government Of Canada
 GQ
 Grab
@@ -2654,6 +2668,7 @@ Gree
 Green Bay Packers
 Green Day
 Green Lantern
+Greenies
 Greenpeace
 Greggs
 Gremlins
@@ -2865,6 +2880,7 @@ Hoover
 Hopin
 Horch
 Horki
+Hot Pockets
 Hot Wheels
 Hotels.com
 Hotpoint-Asiston
@@ -3043,6 +3059,7 @@ Invisalign
 Invitro
 Ioniq
 iOS
+IOS 18
 Iowa Cubs
 Iowa Hawkeyes
 Iowa State
@@ -3206,6 +3223,7 @@ JoyShoetique
 Jt
 Juice WRLD
 Juicy Couture
+Juicy Fruit
 Julius Meinl
 Jumia
 Junkers
@@ -3463,6 +3481,7 @@ Le Coq Sportif
 Le Rassemblement National
 Lea-Francis
 League Of Legends
+Lean Cuisine
 LeapFrog
 LeapMotor
 Leatherman
@@ -3507,6 +3526,7 @@ Lierac
 Lifan
 Life Cereal
 Life Financial Group
+Life Savers
 Lifebuoy
 LIFEWTR
 Liftmaster
@@ -3713,6 +3733,7 @@ Malichimp
 Malindo Air
 Malmo
 Malt O Meal
+Maltesers
 Mamasandpapas
 Mamba
 Mammut
@@ -4856,6 +4877,7 @@ Purdue Boilermakers
 Purdue University
 Purdy's
 Pure
+Pure Encapsulatons
 Pure Leaf
 Pure Life
 Pure Romace
@@ -5073,6 +5095,7 @@ Rockwool
 Roda
 Rodionov & Sons
 Roewe
+Rogaine
 Rogers
 Rogozarki
 Roku
@@ -5306,6 +5329,7 @@ Sharks
 Sharp
 Sharp Airlines
 Shazam
+Sheba
 Shedd Aquarium
 Sheffield Shield
 Shein
@@ -5616,6 +5640,7 @@ Stoopid Monkey
 Stop & Shops
 STORM+SHELTER
 Stormers
+Stouffer's
 Stradivarius
 Stranger Live
 Stranger Things
@@ -6105,6 +6130,7 @@ UCLA
 UCLM
 UConn Huskies
 UD
+Udacity
 UEFA
 UEFA Champions League
 UEM
@@ -6712,6 +6738,7 @@ Zoho Mail
 Zomato
 ZOO Ostrava
 Zoom
+ZoomInfo
 Zoopla
 Zotye
 ZTE
@@ -6723,3 +6750,4 @@ Zynga
 Zyrtec
 Zytiga
 ZyXel
+ZzzQuil
